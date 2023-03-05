@@ -43,6 +43,14 @@ In summary, I, Conor Weldon, am a highly motivated and accomplished computer sci
 <a href="https://www.behance.net/maverickog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/maverickog" height="30" width="40" /></a>
 </p>
 
+<br></br>
+
+<h3 align="left">Statistics:</h3>
+
+[Come check out a detailed view of my Statistics!](https://profile-summary-for-github.com/user/conorweldon)
+
+<br></br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=conorweldon&show_icons=true&locale=en&layout=compact" alt="conorweldon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conorweldon&show_icons=true&locale=en" alt="conorweldon" /></p>
