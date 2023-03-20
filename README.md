@@ -23,9 +23,9 @@ In summary, I, Conor Weldon, am a highly motivated and accomplished computer sci
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Emotional Facial Recognition System.](https://github.com/IADT-projects/y4-project-ConorWeldon)
+- 🔭 I’m currently working on [**Emotional Facial Recognition System.**](https://github.com/IADT-projects/y4-project-ConorWeldon)
 
-- 🌱 I’m currently learning in the **Institute of Art, Design & Technology.**
+- 🌱 I’m currently learning in the  [**Institute of Art, Design & Technology.**](https://iadt.ie/)
 
 - 👯 I’m looking to collaborate on **with Professors in hopes of Pursuing a PHD in AI.**
 
