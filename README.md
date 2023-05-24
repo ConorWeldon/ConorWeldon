@@ -14,9 +14,9 @@ Prior to joining Microsoft, I have honed my skills as a developer at Synchronoss
 <br></br>
 Beyond their work at Microsoft, I am a dedicated student who is always seeking new challenges and opportunities for growth. With a keen interest in the field of artificial intelligence and robotics, I plan to pursue a doctorate or PhD in these fields to deepen my knowledge and make meaningful contributions to the industry.
 <br></br>
-In summary, I, Conor Weldon, am a highly motivated and accomplished computer science student and professional who is making a name for themselves in the industry. With a strong technical background and a passion for innovation, I am poised for continued success in their career and academic pursuits.</h3>
+In summary, I, Conor Weldon, am a highly motivated and accomplished computer science student and professional who is making a name for themselves in the industry. With a strong technical background and a passion for innovation, I am poised for continued success in their career and academic pursuits.
 <br></br>
-My latest large project has been my thesis, for this I focused on facial expression recognition using machine learning techniques. I developed a novel approach for detecting emotions based on the orientation of eyebrows, mouth, nose, eyes and wrinkles in facial images. By utilizing popular Python libraries like OpenCV, Pandas, and Scikit-learn, I processed the data, trained machine learning models, and evaluated their performance. The results showcased promising outcomes, highlighting the effectiveness of the developed method and contributing to the field of facial expression recognition.
+My latest large project has been my thesis, for this I focused on facial expression recognition using machine learning techniques. I developed a novel approach for detecting emotions based on the orientation of eyebrows, mouth, nose, eyes and wrinkles in facial images. By utilizing popular Python libraries like OpenCV, Pandas, and Scikit-learn, I processed the data, trained machine learning models, and evaluated their performance. The results showcased promising outcomes, highlighting the effectiveness of the developed method and contributing to the field of facial expression recognition.</h3>
 
 <br></br>
 <br></br>
